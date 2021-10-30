@@ -284,6 +284,10 @@
 					<key>Custom ADB Map</key>
 					<array>
 						<string>;Items must be strings in the form of scanfrom=adbto (in hex)</string>
+						<string>3a=3b;capslock to left control</string>
+						<string>38=37;left alt to left windows</string>
+						<string>e05b=3a;left windows to left alt</string>
+						<string>e038=36;right alt to right windows</string>
 					</array>
 					<key>Custom PS2 Map</key>
 					<array>
